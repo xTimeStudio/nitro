@@ -1,0 +1,61 @@
+.main-table li {
+    background-color: gray;
+}
+.extra-table li {
+    background-color: gray;
+}
+
+.main-table li:hover {
+    background-color: #88d;
+}
+.extra-table li:hover {
+    background-color: #88d;
+}
+li:hover a {
+    color: white;
+}
+.main-table h2 {
+    background-color: khaki;
+}
+.extra-table h2 {
+    background-color: lightcyan;
+}
+h2 {
+    color: lightgray;
+}
+h2:hover {
+    color: red;
+}
+.main-table .footer {
+    color: lightgreen;
+}
+.extra-table .footer {
+    color: lightcoral;
+}
+.main-table .footer:hover {
+    color: mediumorchid;
+}
+.extra-table .footer:hover {
+    color: lime;
+}
+.welcome-slider {
+    width: 50%;
+    margin: 0 auto;
+
+    text-align: center;
+}
+.welcome-slider .slide-img {
+    max-width: 55%;
+    max-height: 55%;
+    border: mediumspringgreen 2px solid;
+}
+.welcome-slider button {
+    border: mediumorchid 10px solid;
+    background-color: pink;
+}
+body {
+    background-color: #933344;
+}
+.news-header-css {
+    text-align: center;
+}
